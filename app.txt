@@ -1,4 +1,4 @@
-hello 안녕 반갑다.
+hello 안녕
 ㅏㅓㅣㅏㅓㅎㄹㅇㄴㅁ
 
 "hello world!"
